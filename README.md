@@ -1,1 +1,3 @@
 # ema-jhon
+*html
+*css
